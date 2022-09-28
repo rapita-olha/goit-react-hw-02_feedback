@@ -1,1 +1,1 @@
-# goit-react-hw-0_feedback
+# goit-react-hw-02_feedback
